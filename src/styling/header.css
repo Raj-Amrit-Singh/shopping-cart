@@ -1,0 +1,40 @@
+.cartLink{
+  display: inline-block; 
+  float: right;
+}
+
+
+.panel-heading{
+  height: 60px;
+}
+
+#headerTitle{
+  font-size: medium;
+  padding-left: 50px
+}
+
+#imageInHeader{
+  height: 45px;
+  width: 123px;
+}
+
+.glyphicon glyphicon-shopping-cart{
+  height: 40px;
+  width : 40px;
+}
+
+#shoppingCartImage{
+  height: 40px;
+  width: 40px;
+}
+
+.details{
+  margin-left: 50%;
+  margin-bottom: 20px;
+  padding-top: 0px;
+}
+
+#label{
+  padding-left: 20px;
+  text-align: center;
+}

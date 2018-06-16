@@ -1,0 +1,23 @@
+img{
+  width: 50%;
+  height: 50%;
+}
+.card-deck{
+  max-width: 768px;
+}
+
+.productList{
+  display: inline-block;
+}
+
+#iProduct{
+  font-size: 18px;
+}
+
+#productListCards{
+  width: 18rem;
+}
+
+/*#productContainer{
+  background-color: darkgray;
+}*/

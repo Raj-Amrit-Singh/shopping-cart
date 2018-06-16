@@ -1,0 +1,26 @@
+#imageInCartPage{
+  width: 100px;
+  height: 100px;
+}
+
+th{
+  padding-left: 200px;
+  font-size: 20px;
+}
+
+td{
+  font-size: 20px;
+}
+
+#numberOfItems{
+  font-size: 10px;
+}
+
+#totalPrice{
+  float: right;
+  padding-right: 60px;
+}
+
+#iCart{
+  font-size: 18px;
+}
